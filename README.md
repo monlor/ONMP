@@ -57,6 +57,7 @@ Entware-ng 是一个适用于嵌入式系统的软件包库，使用 opkg 包管
 ### 2. 安装onmp
 
 一键命令，复制->粘贴->回车
+使用ONMP时，小米路由器Monlor Tools工具箱请勿安装插件HttpFile和KodExplorer
 
 ```
  $ sh -c "$(curl -kfsSl https://raw.githubusercontent.com/monlor/ONMP/master/oneclick.sh)"
