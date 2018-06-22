@@ -11,6 +11,7 @@ phpmod="php7-mod-calendar php7-mod-ctype php7-mod-curl php7-mod-dom php7-mod-exi
 
 #支持小米路由Monlor Tools工具箱
 alias opkg=/opt/bin/opkg
+alias wget=/opt/bin/wget
 
 # 后续可能增加的包(缺少源支持)
 # php7-mod-imagick imagemagick imagemagick-jpeg imagemagick-png imagemagick-tiff imagemagick-tools
